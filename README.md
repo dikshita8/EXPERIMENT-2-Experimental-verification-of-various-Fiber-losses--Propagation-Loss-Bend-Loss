@@ -1,5 +1,5 @@
 # EXPERIMENT-2-OPTICAL-COMMUNICATION
-## 🔍 EX.NO: 2 – Verification of Fiber Losses
+## 🔍 EX.NO: 2 –  Verification of Fiber Losses
 
 **Aim:**  
 To measure propagation and bending losses for two wavelengths in plastic fiber.
