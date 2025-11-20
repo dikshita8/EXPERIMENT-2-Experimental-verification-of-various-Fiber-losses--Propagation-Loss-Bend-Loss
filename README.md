@@ -12,7 +12,7 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Fiber cables 
 
 **Theory:**  
-- Losses due to absorption, scattering, bending  
+- Losses due to absorption, scattering, bending   
 - Plastic fiber loss ~180 dB/km  
 - Bending loss increases with reduced loop diameter
 
